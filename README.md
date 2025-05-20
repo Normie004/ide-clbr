@@ -1,4 +1,4 @@
-# collab-ide
+# ide-clbr
 ### Currently implemented features:
 - text editor
 - chatroom
