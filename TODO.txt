@@ -1,0 +1,8 @@
+- Make the xml request handling more secure (use session tokens etc)
+- complete the dashboard form
+- In the dashboard make the project names be hyperlinks to the workspace pages
+- responsiveness in the website for different desktop resolutions and perhaps phones
+- options to start voice conferencing, screen casting etc
+- multiple editor tab functionality
+- option to virtually run the code and show the output or the run in a new window/large dialog box kinda thing
+- send comments on a file of another person
